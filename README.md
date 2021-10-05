@@ -10,3 +10,7 @@ The input must be an simplified expression of a polynomial. The expression is wr
 
 ![1](https://user-images.githubusercontent.com/55001351/136073196-71211c86-93be-4146-a6b4-5d9fd5703124.JPG)
 
+## Critical Points
+
+Input conditions remains the same as mentioned above. 
+![2](https://user-images.githubusercontent.com/55001351/136074321-a7a4d003-257f-4a5b-8cf1-949633362bb7.JPG)
