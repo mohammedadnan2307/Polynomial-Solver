@@ -19,7 +19,7 @@ Input conditions remains the same as mentioned above.
 
 ## Generate Equation
 
-Here, the input are the Real Roots seperated by comma.
+Here, the input is the Real Roots seperated by comma between each value.
 
 ![3](https://user-images.githubusercontent.com/55001351/136084811-00feaac2-a1ba-433b-b210-4e491937b9e3.JPG)
 
