@@ -5,3 +5,4 @@ Polynomial Solver is a tool that can calculate real roots and critical points of
 Also, it contains features to plot interactive user graphs of the polynomial.
 
 ## Calculate Roots
+![2](https://user-images.githubusercontent.com/55001351/136073041-f294f887-5ae4-4e04-aae5-4d9caa876044.JPG)
