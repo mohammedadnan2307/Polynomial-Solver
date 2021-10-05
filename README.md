@@ -37,7 +37,6 @@ Input conditions remains the same as mentioned above. Value of lower limit and h
 
 ## Show Tangents in Graph
 
-Show Tangent button can be toggled to display the tangent line and corresponding slope of the polynomial.
+Tangent button can be toggled to show/hide the tangent line and corresponding slope of the polynomial.
 
 ![6](https://user-images.githubusercontent.com/55001351/136085796-1fde6154-2e5b-404d-9e4f-5a3dcacd4541.JPG)
-
