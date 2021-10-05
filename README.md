@@ -4,4 +4,4 @@ Polynomial Solver is a tool that can calculate real roots and critical points of
 
 Also, it contains features to plot interactive user graphs of the polynomial.
 
-## Examples
+## Calculate Roots
