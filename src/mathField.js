@@ -4,7 +4,7 @@ var mathFieldSpan = document.getElementById('coefInput');
 var latexFormat = "";
 
 var MQ = MathQuill.getInterface(2); // for backcompat
-var mathField = MQ.StaticMath(mathFieldSpan, {
+var mathField = MQ.MathField(mathFieldSpan, {
     spaceBehavesLikeTab: true, // configurable
     handlers: {
         edit: function () { // useful event handlers
