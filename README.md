@@ -5,6 +5,11 @@ Polynomial Solver is a tool that can calculate real roots and critical points of
 Also, it contains features to plot interactive user graphs of the polynomial. You can check out this tool here,
 https://mohammedadnan2307.github.io/Polynomial-Solver/
 
+## Installation
+```
+npm i polynomial-solver
+```
+
 ## Calculate Roots
 
 The input must be a simplified expression of a polynomial. The expression is written as a function of x, f(x). Expression must contain real values and exponents must be non-negative integers only.
